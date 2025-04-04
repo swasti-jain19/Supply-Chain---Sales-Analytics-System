@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "DataCo Global Analysis",
+            "name": "DataCo Global Analysis",
+            "username": "postgres"
+        }
+    ]
+}
